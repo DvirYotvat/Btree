@@ -20,10 +20,6 @@ The program receives numbers following numbers are:
 <p>"9" to print the tree.
 
 <h2> Demo gifs: 🧐 </h2>
-
-<img align='center' src="https://media.giphy.com/media/wwaUhAYqfCZG8pPGL0/giphy.gif" width="110">
-
-
 <img align='middle' src="https://media.giphy.com/media/dUve5HFgu3UtJExQie/giphy.gif" width="110">
 
 
