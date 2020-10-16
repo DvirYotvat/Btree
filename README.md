@@ -19,7 +19,7 @@ The program receives numbers following numbers are:
 <p>"7" compere between tow trees.
 <p>"9" to print the tree.
 
-<h2> Demo gifs: 🧐 </h2>
+<h2> Demo: 🧐 </h2>
 <img align='middle' src="https://media.giphy.com/media/dUve5HFgu3UtJExQie/giphy.gif" width="110">
 
 
