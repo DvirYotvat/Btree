@@ -10,14 +10,14 @@ The input:
 The program receives numbers following numbers are:
 
 <p>"-1" to exit the program<\p>
-"0" to Boot tree
-"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).
-"2" print the smallest value in the tree.
-"4" print "1" if the tree is search tree and "0" if not.
-"5" print the depth of the tree.
-"6" mirror the tree.
-"7" compere between tow trees.
-"9" to print the tree.
+<p>"0" to Boot tree<\p>
+<p>"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).<\p>
+<p>"2" print the smallest value in the tree.<\p>
+<p>"4" print "1" if the tree is search tree and "0" if not.<\p>
+<p>"5" print the depth of the tree.<\p>
+<p>"6" mirror the tree.<\p>
+<p>"7" compere between tow trees.<\p>
+<p>"9" to print the tree.<\p>
 
 <h2 align="center"> Demo gifs: 🧐 </h2>
 
