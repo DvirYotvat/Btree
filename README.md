@@ -9,15 +9,15 @@ The program build array of binary trees, and each tree you can insert data , res
 The input:
 The program receives numbers following numbers are:
 
-<p>"-1" to exit the program
-"0" to Boot tree
-<p>"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).
-"2" print the smallest value in the tree.
-<p>"4" print "1" if the tree is search tree and "0" if not.
-"5" print the depth of the tree.
-<p>"6" mirror the tree.
-"7" compere between tow trees.
-<p>"9" to print the tree.
+<br>"-1" to exit the program
+<br>"0" to Boot tree
+<br>"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).
+<br>"2" print the smallest value in the tree.
+<br>"4" print "1" if the tree is search tree and "0" if not.
+<br>"5" print the depth of the tree.
+<br>"6" mirror the tree.
+<br>"7" compere between tow trees.
+<br>"9" to print the tree.
 
 <h2> Demo: 🧐 </h2>
 <img align='middle' src="https://media.giphy.com/media/dUve5HFgu3UtJExQie/giphy.gif" width="110">
