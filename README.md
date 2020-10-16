@@ -21,8 +21,8 @@ The program receives numbers following numbers are:
 
 <h2 align="center"> Demo gifs: 🧐 </h2>
 
-<img align="center"> src="https://media.giphy.com/media/wwaUhAYqfCZG8pPGL0/giphy.gif" width="110">
+<img align="center" src="https://media.giphy.com/media/wwaUhAYqfCZG8pPGL0/giphy.gif" width="110">
 
-<img align="center"> src="https://media.giphy.com/media/dUve5HFgu3UtJExQie/giphy.gif" width="110">
+<img align="center" src="https://media.giphy.com/media/dUve5HFgu3UtJExQie/giphy.gif" width="110">
 
 
