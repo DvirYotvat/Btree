@@ -1,18 +1,9 @@
-Username: dviryo
-Name and id: Dvir yotvat 311212823
+Username: Dvir Yotvat, MrRabbiT-coder
 
 Explaintion:
 The program build array of binary trees, and each tree you can insert data , rest what a tree you want in the array of the trees, check if the tree is a search tree, print the depth of the tree, mirror the tree (no longer search tree), compere between tow trees and print the tree you want.
 (to know how to make an array of trees go to "input").
 
-To build (compile):
-press ctrl +shift+b
-
-To run the program: 
-press ctrl+f5
-
-Files in program: 
-Btree.h, Btree.cpp, Ex4.cpp,ex4(the compiled program), makefile, file with: launch.json and tasks.json
 
 The input:
 The program receives numbers following numbers are:
