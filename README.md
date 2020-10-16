@@ -9,8 +9,8 @@ The program build array of binary trees, and each tree you can insert data , res
 The input:
 The program receives numbers following numbers are:
 
-<p>"-1" to exit the program
-<p>"0" to Boot tree
+<tr>"-1" to exit the program
+<tr>"0" to Boot tree
 <p>"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).
 <p>"2" print the smallest value in the tree.
 <p>"4" print "1" if the tree is search tree and "0" if not.
