@@ -8,7 +8,6 @@ The program build array of binary trees, and each tree you can insert data , res
 <h2> How to use the databases: ⌨️ </h2>
 The input:
 The program receives numbers following numbers are:
-
 <br>"-1" to exit the program
 <br>"0" to Boot tree
 <br>"1" to add a new vertex in the tree (then you need to add what number you want to enter the number to the vertex).
