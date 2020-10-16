@@ -7,4 +7,4 @@ The program build array of binary trees, and each tree you can insert data , res
 
 <h2 align="center"> Demo gifs: 🧐 </h2>
 
-<img align='right' src="https://media.giphy.com/media/wwaUhAYqfCZG8pPGL0/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/wwaUhAYqfCZG8pPGL0/giphy.gif" width="110">
